@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Buat Surat Keterangan Umum",
+    "exe": "suratumum.exe"
+  },
+  {
+    "label": "Buat Surat Keterangan Tidak Mampu (SKTM)",
+    "exe": "SKTM.exe"
+  },
+  {
+    "label": "Buat Surat Keterangan Membuat KTP Baru",
+    "exe": "KTP.exe"
+  },
+  {
+    "label": "Buat Surat Keterangan SKCK",
+    "exe": "SKCK.exe"
+  },
+  {
+    "label": "Buat Surat Keterangan Kematian",
+    "exe": "kematian.exe"
+  }
+]
