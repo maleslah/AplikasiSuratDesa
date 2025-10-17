@@ -1,5 +1,5 @@
 {
   "versi": "1.2",
-  "url_download_zip": "https://raw.githubusercontent.com/maleslah/AplikasiSuratDesa/main/AplikasiSuratDesa_v1.2.zip",
+  "url_download_zip": "https://github.com/maleslah/AplikasiSuratDesa/releases/download/zipfile/AplikasiSuratDesa_v1.2.zip",
   "pesan": "Perubahan: Penambahan fitur pencarian dan perbaikan bug. Jendela launcher tidak bisa lagi digeser ke bawah taskbar."
 }
