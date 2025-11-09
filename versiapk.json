@@ -1,10 +1,11 @@
 {
-"latestVersionCode": 3,
-"latestVersionName": "2.1",
-"apkUrl": "https://drive.usercontent.google.com/download?id=1D2uxx-JZFNOf3hcIzrVz2aa4snFRJc98&export=download&authuser=0&confirm=t&uuid=817bd89d-08aa-4391-af37-b5f96b984102&at=ALWLOp79Vc9gcFC1MZeSAphJ_JNQ:1762723000989",
+"latestVersionCode": 2,
+"latestVersionName": "2.0",
+"apkUrl": "https://drive.",
 "releaseNotes": "Perbaikan bug di halaman database.\nMenambahkan fitur scan lebih cepat.\nTombol refresh data sekarang berfungsi."
 
 }
+
 
 
 
