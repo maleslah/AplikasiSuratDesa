@@ -3,7 +3,7 @@
     {
       "v": "3.1",
       "url": "https://raw.githubusercontent.com/maleslah/AplikasiSuratDesa/refs/heads/main/3.1.zip",
-      "notes": "Optimasi performa dan perbaikan sistem hapus otomatis."
+      "notes": "Optimasi performa dan perbaikan sistem hapus otomatis\n- Otomatis menghapus dipindahkan ke recycle bin\n- Optimasi dan peningkatan performa."
     },
     {
       "v": "1.2",
