@@ -1,5 +1,24 @@
 {
-  "versi": "3.1.2",
-  "url_download_zip": "https://drive.usercontent.google.com/download?id=15BBbXxfCCCCdA3ozrqHSU-TCSyCKBzVf&export=download&confirm=t&uuid=baac0444-d78d-4678-a940-60a80aa3354d",
-  "pesan": "\n- Menambahkan Nomor Surat di Ket Pindah\n- Optimasi dan peningkatan performa"
+  "daftar_update": [
+    {
+      "v": "3.1.2",
+      "url": "https://drive.usercontent.google.com/download?id=1BK7Oozvv81Oj_gfkVrt8Bvl7VLXzDACw&export=download&confirm=t&uuid=ce49c877-5591-4959-9051-c5a7d36b85d6",
+      "notes": "Optimasi performa dan perbaikan sistem hapus otomatis\n- Otomatis menghapus dipindahkan ke recycle bin\n- Optimasi dan peningkatan performa."
+    },
+    {
+      "v": "3.1",
+      "url": "https://raw.githubusercontent.com/maleslah/AplikasiSuratDesa/refs/heads/main/3.1.zip",
+      "notes": "Optimasi performa dan perbaikan sistem hapus otomatis\n- Otomatis menghapus dipindahkan ke recycle bin\n- Optimasi dan peningkatan performa."
+    },
+    {
+      "v": "1.2",
+      "url": "https://raw.githubusercontent.com/maleslah/AplikasiSuratDesa/refs/heads/main/1.2.zip",
+      "notes": "Penambahan fitur scan KTP baru."
+    },
+    {
+      "v": "1.1",
+      "url": "https://raw.githubusercontent.com/maleslah/AplikasiSuratDesa/refs/heads/main/1.1.zip",
+      "notes": "Rilis awal aplikasi surat."
+    }
+  ]
 }
