@@ -1,6 +1,11 @@
 {
   "daftar_update": [
     {
+      "v": "3.1.3",
+      "url": "https://drive.usercontent.google.com/download?id=1UBiPOsATtElhixcYVX9jex3HbP_yH4Nv&export=download&confirm=t&uuid=9f5226af-217c-44ff-a4dd-934b8d7d566f",
+      "notes": "- Merubah kode kelahiran, pindah tempat, f1.01, kematian, kelahiran menjadi C# kini aplikasi lebih ringan\n- Optimasi dan peningkatan performa"
+    },
+    {
       "v": "3.1.2",
       "url": "https://drive.usercontent.google.com/download?id=15BBbXxfCCCCdA3ozrqHSU-TCSyCKBzVf&export=download&confirm=t&uuid=baac0444-d78d-4678-a940-60a80aa3354d",
       "notes": "- Menambahkan Nomor Surat di Ket Pindah\n- Optimasi dan peningkatan performa"
