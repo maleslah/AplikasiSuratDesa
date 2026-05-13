@@ -1,6 +1,11 @@
 {
   "daftar_update": [
     {
+      "v": "3.1.4",
+      "url": "https://drive.usercontent.google.com/download?id=1ht3Stp4Lwycp38j5JARp78N5wFfSrC94&export=download&confirm=t&uuid=606e589b-99a4-4d1e-ac63-cc1422af35d1",
+      "notes": "- Menambahkan link untuk cek Desil di SKTM\n- Optimasi dan peningkatan performa"
+    },
+    {
       "v": "3.1.3",
       "url": "https://drive.usercontent.google.com/download?id=1UQSOed2Q334usuaCghvj8FgJTNsmVZ_s&export=download&confirm=t&uuid=918b9e09-0fc4-4fc8-b11e-0e64a1530580",
       "notes": "- Mengupdate surat kelahiran, kematian\n- Optimasi dan peningkatan performa"
