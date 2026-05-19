@@ -1,9 +1,14 @@
 {
   "daftar_update": [
     {
-      "v": "3.1.4",
-      "url": "https://drive.usercontent.google.com/download?id=1ht3Stp4Lwycp38j5JARp78N5wFfSrC94&export=download&confirm=t&uuid=606e589b-99a4-4d1e-ac63-cc1422af35d1",
+      "v": "3.2.1",
+      "url": "https://drive.usercontent.google.com/download?id=1pWNUER5SPn-zpx_e11P6vxUEcjmaVllw&export=download&confirm=t&uuid=851103ec-ebf8-4e90-8ed4-26cc7374ee9a",
       "notes": "- Menambahkan link untuk cek Desil di SKTM\n- Optimasi dan peningkatan performa"
+    },
+    {
+      "v": "3.2",
+      "url": "https://drive.usercontent.google.com/download?id=1MbmYaAO_kLKlKEZGC2XOlUwrHqqatNXB&export=download&confirm=t&uuid=e0ed74e2-7d52-41a0-980a-46e5e059fbd0",
+      "notes": "- Merubah kode kelahiran, pindah tempat, f1.01, kematian, kelahiran menjadi C# kini aplikasi lebih ringan\n- Menambahkan Log Nomor Surat\n- Optimasi dan peningkatan performa"
     },
     {
       "v": "3.1.3",
