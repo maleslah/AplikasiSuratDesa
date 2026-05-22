@@ -1,8 +1,8 @@
 {
-"latestVersionCode": 11,
-"latestVersionName": "4.1",
-"apkUrl": "https://drive.usercontent.google.com/download?id=1SMap-aa5I6WeBsfyYpuurJYh8UDd96SF&export=download&confirm=t&uuid=4cf152f9-5f09-48e6-84ca-a6600f2e7b38",
-"releaseNotes": "- Memperbarui Error Kuota Terlampaui dan Mengganti Api Gemini.\n- Upgrade Api Gemini ke 3.5\n- Optimasi dan Peningkatan Performa."
+"latestVersionCode": 12,
+"latestVersionName": "4.2",
+"apkUrl": "https://drive.usercontent.google.com/download?id=11xXavLg1KblWKiyzw-fSWbdBLvjSJJ7G&export=download&confirm=t&uuid=f271a654-b9f0-4493-abc7-23c162fd1422",
+"releaseNotes": "- Memperbarui Error Kuota Terlampaui dan Mengganti Api Gemini.\n- Upgrade Api Gemini ke 3.5\n- Anda bisa mengganti server dari menu Tentang->Api\n- Optimasi dan Peningkatan Performa."
 }
 
 
