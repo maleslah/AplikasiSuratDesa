@@ -1,6 +1,6 @@
 {
-"latestVersionCode": 12,
-"latestVersionName": "4.2",
+"latestVersionCode": 11,
+"latestVersionName": "4.1",
 "apkUrl": "https://drive.usercontent.google.com/download?id=1SMap-aa5I6WeBsfyYpuurJYh8UDd96SF&export=download&confirm=t&uuid=4cf152f9-5f09-48e6-84ca-a6600f2e7b38",
 "releaseNotes": "- Memperbarui Error Kuota Terlampaui dan Mengganti Api Gemini.\n- Upgrade Api Gemini ke 3.5\n- Optimasi dan Peningkatan Performa."
 }
