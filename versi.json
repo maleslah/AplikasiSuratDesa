@@ -1,5 +1,44 @@
 {
-  "versi": "3.1.2",
-  "url_download_zip": "https://drive.usercontent.google.com/download?id=1-LUcz0pr1s1Kf_t7s0fjvZNVMwvmIYS9&export=download&confirm=t&uuid=09301f61-8152-4dca-ada8-a823e5cca5bd",
-  "pesan": "- Menambahkan Nomor Surat di Ket Pindah\n- Optimasi dan peningkatan performa"
+  "daftar_update": [
+    {
+      "v": "3.2.1",
+      "url": "https://drive.usercontent.google.com/download?id=1pWNUER5SPn-zpx_e11P6vxUEcjmaVllw&export=download&confirm=t&uuid=851103ec-ebf8-4e90-8ed4-26cc7374ee9a",
+      "notes": "- Menambahkan link untuk cek Desil di SKTM\n- Optimasi dan peningkatan performa"
+    },
+    {
+      "v": "3.2",
+      "url": "https://drive.usercontent.google.com/download?id=1MbmYaAO_kLKlKEZGC2XOlUwrHqqatNXB&export=download&confirm=t&uuid=e0ed74e2-7d52-41a0-980a-46e5e059fbd0",
+      "notes": "- Merubah kode kelahiran, pindah tempat, f1.01, kematian, kelahiran menjadi C# kini aplikasi lebih ringan\n- Menambahkan Log Nomor Surat\n- Optimasi dan peningkatan performa"
+    },
+    {
+      "v": "3.1.3",
+      "url": "https://drive.usercontent.google.com/download?id=1UQSOed2Q334usuaCghvj8FgJTNsmVZ_s&export=download&confirm=t&uuid=918b9e09-0fc4-4fc8-b11e-0e64a1530580",
+      "notes": "- Mengupdate surat kelahiran, kematian\n- Optimasi dan peningkatan performa"
+    },
+    {
+      "v": "3.1.2",
+      "url": "https://drive.usercontent.google.com/download?id=15BBbXxfCCCCdA3ozrqHSU-TCSyCKBzVf&export=download&confirm=t&uuid=baac0444-d78d-4678-a940-60a80aa3354d",
+      "notes": "- Menambahkan Nomor Surat di Ket Pindah\n- Optimasi dan peningkatan performa"
+    },
+    {
+      "v": "3.1.1",
+      "url": "https://drive.usercontent.google.com/download?id=1BK7Oozvv81Oj_gfkVrt8Bvl7VLXzDACw&export=download&confirm=t&uuid=ce49c877-5591-4959-9051-c5a7d36b85d6",
+      "notes": "Optimasi performa dan perbaikan sistem hapus otomatis\n- Otomatis menghapus dipindahkan ke recycle bin\n- Optimasi dan peningkatan performa."
+    },
+    {
+      "v": "3.1",
+      "url": "https://raw.githubusercontent.com/maleslah/AplikasiSuratDesa/refs/heads/main/3.1.zip",
+      "notes": "Optimasi performa dan perbaikan sistem hapus otomatis\n- Otomatis menghapus dipindahkan ke recycle bin\n- Optimasi dan peningkatan performa."
+    },
+    {
+      "v": "1.2",
+      "url": "https://raw.githubusercontent.com/maleslah/AplikasiSuratDesa/refs/heads/main/1.2.zip",
+      "notes": "Penambahan fitur scan KTP baru."
+    },
+    {
+      "v": "1.1",
+      "url": "https://raw.githubusercontent.com/maleslah/AplikasiSuratDesa/refs/heads/main/1.1.zip",
+      "notes": "Rilis awal aplikasi surat."
+    }
+  ]
 }
