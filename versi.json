@@ -1,6 +1,11 @@
 {
   "daftar_update": [
     {
+      "v": "3.2.2",
+      "url": "https://drive.usercontent.google.com/download?id=1J84X8rQdPFSFlmPJI3jutcJpSZcwSHK8&export=download&confirm=t&uuid=59da2eb4-c8e3-4ca1-a30e-7f82a9cf85cf",
+      "notes": "- Optimasi dan peningkatan performa"
+    },
+    {
       "v": "3.2.1",
       "url": "https://drive.usercontent.google.com/download?id=1pWNUER5SPn-zpx_e11P6vxUEcjmaVllw&export=download&confirm=t&uuid=851103ec-ebf8-4e90-8ed4-26cc7374ee9a",
       "notes": "- Menambahkan link untuk cek Desil di SKTM\n- Optimasi dan peningkatan performa"
