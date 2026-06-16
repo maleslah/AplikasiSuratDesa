@@ -1,6 +1,11 @@
 {
   "daftar_update": [
     {
+      "v": "3.2.3",
+      "url": "https://drive.usercontent.google.com/download?id=15_JSNVm5Mbx79bCkIhm17-PJ7RwKqbT3&export=download&confirm=t&uuid=cdaafe5a-d6fb-4601-b723-548bc49d100f",
+      "notes": "- Mengganti pembacaan dari firebase menjadi realtime listener\n- Tidak perlu lagi tombol refresh tapi tetap disediakan opsi di launcher on atau off\n- Optimalisasi dan peningkatan performa"
+    },
+    {
       "v": "3.2.2",
       "url": "https://drive.usercontent.google.com/download?id=1J84X8rQdPFSFlmPJI3jutcJpSZcwSHK8&export=download&confirm=t&uuid=59da2eb4-c8e3-4ca1-a30e-7f82a9cf85cf",
       "notes": "- Optimasi dan peningkatan performa"
