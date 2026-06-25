@@ -1,58 +1,6 @@
 {
-"latestVersionCode": 12,
-"latestVersionName": "4.2",
-"apkUrl": "https://drive.usercontent.google.com/download?id=11xXavLg1KblWKiyzw-fSWbdBLvjSJJ7G&export=download&confirm=t&uuid=f271a654-b9f0-4493-abc7-23c162fd1422",
-"releaseNotes": "- Memperbarui Error Kuota Terlampaui dan Mengganti Api Gemini.\n- Upgrade Api Gemini ke 3.5\n- Anda bisa mengganti server dari menu Tentang->Api\n- Optimasi dan Peningkatan Performa."
+"latestVersionCode": 13,
+"latestVersionName": "4.3",
+"apkUrl": "https://drive.usercontent.google.com/download?id=1U9ZZPzcX44yWALEHe9j9niaXePdcccyD&export=download&confirm=t&uuid=1374e770-1ec7-4892-aa27-09e12ad26cac",
+"releaseNotes": "- Menambahkan beberapa model gemini untuk mengurangi eror.\n- Sekarang bisa scan 4 foto sekaligus\n- Optimasi dan Peningkatan Performa."
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
