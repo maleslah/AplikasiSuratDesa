@@ -1,6 +1,11 @@
 {
   "daftar_update": [
     {
+      "v": "3.2.4",
+      "url": "https://drive.usercontent.google.com/download?id=1d993JhN20Xxs_r0qQ4ln36xJgZ9O146q&export=download&confirm=t&uuid=91973bdb-e69e-4cd1-8c76-33a69af60f14",
+      "notes": "- Merubah setelan agar tidak ada yang terhapus saat membuat surat\n- update SKTM: sekarang otomatis mengisi NIK di cek desil jika NIK sudah diisi dari app utama\n- Optimalisasi dan peningkatan performa"
+    },
+    {
       "v": "3.2.3",
       "url": "https://drive.usercontent.google.com/download?id=15_JSNVm5Mbx79bCkIhm17-PJ7RwKqbT3&export=download&confirm=t&uuid=cdaafe5a-d6fb-4601-b723-548bc49d100f",
       "notes": "- Mengganti pembacaan dari firebase menjadi realtime listener\n- Tidak perlu lagi tombol refresh tapi tetap disediakan opsi di launcher on atau off\n- Optimalisasi dan peningkatan performa"
