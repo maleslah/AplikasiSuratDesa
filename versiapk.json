@@ -1,6 +1,6 @@
 {
-"latestVersionCode": 14,
-"latestVersionName": "4.4",
+"latestVersionCode": 15,
+"latestVersionName": "4.5",
 "apkUrl": "https://drive.usercontent.google.com/download?id=1nINre0tIVTIVbS-cDXyjZ6GSD11l5XaB&export=download&confirm=t&uuid=e81a0203-368b-4258-88e4-663bdce1a85a",
 "releaseNotes": "- Menambahkan Gemini 3.6.\n- Sekarang bisa scan 4 foto sekaligus\n- Mendukung latar belakang (anda harus mengijinkan notifikasi).\n- Optimasi dan Peningkatan Performa."
 }
