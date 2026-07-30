@@ -1,6 +1,11 @@
 {
   "daftar_update": [
     {
+      "v": "3.2.6",
+      "url": "https://drive.usercontent.google.com/download?id=1iyXOcSC6YSNEE9tBbrIGlAfijiBtm-A7&export=download&confirm=t&uuid=e6e8b480-b04a-4f82-9d47-19437e42da74",
+      "notes": "- Perbaikan Bug Kecil\n- Optimalisasi dan peningkatan performa"
+    },
+    {
       "v": "3.2.5",
       "url": "https://drive.usercontent.google.com/download?id=1SMJBJaExy-hAkc7jVI8B70ep-mcak-U0&export=download&confirm=t&uuid=667ce33f-b473-450d-9f89-d96be0d5ccc7",
       "notes": "- Menambahkan Force update\n- Update SKTM: sekarang terdapat Screenshot otomatis desil yang akan ditambahkan ke halaman 2\n- Optimalisasi dan peningkatan performa"
