@@ -1,6 +1,12 @@
 {
   "daftar_update": [
     {
+      "v": "3.2.8",
+      "url": "https://drive.usercontent.google.com/download?id=1CwgUHrwr5OIf0QcAiQ7JUG0ubL9a4Jot&export=download&confirm=t&uuid=8c16c684-6fa5-4d82-ae2f-41ded32eb7d2",
+      "notes": "- Mengubah Jalur Cek Updater\n- Optimalisasi dan peningkatan performa",
+      "type": ""
+    },
+    {
       "v": "3.2.7",
       "url": "https://drive.usercontent.google.com/download?id=1X_jYvcEKZ0rd-wvsP1_-OlJrTU6BdRxw&export=download&confirm=t&uuid=ac16840f-45d7-4eeb-813f-093ae423fb0a",
       "notes": "- Menambahkan Offline Mode didalam launcher file>offline mode\n- Optimalisasi dan peningkatan performa",
